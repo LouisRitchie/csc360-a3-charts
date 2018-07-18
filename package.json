@@ -1,0 +1,25 @@
+{
+  "name": "csc360-a3-charts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "canvas": "^1.6.11",
+    "chart.js": "^2.7.2",
+    "chartjs-node": "^1.7.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LouisRitchie/csc360-a3-charts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LouisRitchie/csc360-a3-charts/issues"
+  },
+  "homepage": "https://github.com/LouisRitchie/csc360-a3-charts#readme"
+}
