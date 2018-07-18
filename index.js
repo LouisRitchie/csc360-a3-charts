@@ -6,23 +6,8 @@ const opts = {
         labels: ["Red", "Blue", "Yellow", "Green", "Purple", "Orange"],
         datasets: [{
             label: '# of Votes',
-            data: [12, 19, 3, 5, 2, 3],
-            backgroundColor: [
-                'red',
-                'blue',
-                'yellow',
-                'magenta',
-                'black',
-                'purple'
-            ],
-            borderColor: [
-                'red',
-                'blue',
-                'yellow',
-                'magenta',
-                'black',
-                'purple'
-            ],
+            data: [1, 3, 5, 8, 13],
+            borderColor: 'blue',
             borderWidth: 1
         }]
     },
@@ -34,9 +19,7 @@ const opts = {
                 }
             }]
         },
-        chartArea: {
             backgroundColor: 'white'
-        }
     }
 }
 
